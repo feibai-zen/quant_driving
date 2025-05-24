@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4357965-b3c2-4377-bb5b-a735883def83" name="Changes" comment="" />
+    <list default="true" id="a4357965-b3c2-4377-bb5b-a735883def83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_foundation/df_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_foundation/dataframe_iterator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,21 +27,25 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2wgGEaOmc2jNYWss2wmfylil6EV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.df_iterator.executor": "Run",
-    "Python.test_get_data (1).executor": "Run",
-    "Python.test_get_data.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/yuanlongli/studySpace/quant_driving"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.dataframe_iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.df_iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_get_data (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_get_data.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yuanlongli/studySpace/quant_driving&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/python_foundation" />
@@ -47,7 +54,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="df_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dataframe_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="quant_driving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_foundation/df_iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_foundation/dataframe_iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.df_iterator" />
+        <item itemvalue="Python.dataframe_iterator" />
       </list>
     </recent_temporary>
   </component>
