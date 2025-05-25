@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import akshare as ak
-import talib as ta
+import talib as ta    # 遇到报错之后，uninstall ta-lib, 然后使用 conda install -c conda-forge ta-lib -y 命令重新安装
 
 '''人气指标（AR）和意愿指标（BR）
 AR指标是通过比较某个周期内开盘价与最高、最低价，来反映市场买卖人气。
@@ -51,7 +51,7 @@ index2 = {'上证综指': '000001', '深证成指': '399001',
           '中小板指': '399005', '上证180': '000010'}
 
 index = {'上证综指': '000001'}
-n = 300
+n = 250
 tineperiod = 26
 
 for code in index.values():
