@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4357965-b3c2-4377-bb5b-a735883def83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_source/akshare/ARBR_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_source/akshare/ARBR_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ARBR_model (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ARBR_model.executor&quot;: &quot;Run&quot;,
     &quot;Python.dataframe_iterator.executor&quot;: &quot;Run&quot;,
     &quot;Python.df_iterator.executor&quot;: &quot;Run&quot;,
     &quot;Python.get_data.executor&quot;: &quot;Run&quot;,
@@ -44,7 +47,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yuanlongli/studySpace/quant_driving&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/yuanlongli/studySpace/quant_driving&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -55,7 +59,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.ARBR_model">
-    <configuration name="ARBR_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ARBR_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="quant_driving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code\quant_driving\data_source\akshare\ARBR_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_source/akshare/ARBR_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,8 +103,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.ARBR_model" />
+      <item itemvalue="Python.dataframe_iterator" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ARBR_model" />
         <item itemvalue="Python.ARBR_model" />
         <item itemvalue="Python.dataframe_iterator" />
       </list>
@@ -109,7 +118,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
