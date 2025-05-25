@@ -54,7 +54,7 @@ index = {'上证综指': '000001'}
 n = 300
 tineperiod = 26
 
-for code in index2.values():
+for code in index.values():
     t = datetime.now()
     t0 = t - timedelta(n)
     start = t0.strftime('%Y%m%d')

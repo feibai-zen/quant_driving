@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4357965-b3c2-4377-bb5b-a735883def83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_source/akshare/ARBR_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_source/akshare/ARBR_mode_cn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +45,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/yuanlongli/studySpace/quant_driving"
+    "last_opened_file_path": "D:/code/quant_driving/data_source/akshare"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\quant_driving\data_source\akshare" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/python_foundation" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/jupyter" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ARBR_model">
-    <configuration name="ARBR_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ARBR_mode_cn">
+    <configuration name="ARBR_mode_cn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="quant_driving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code\quant_driving\data_source\akshare\ARBR_model.py" />
+      <option name="SCRIPT_NAME" value="D:\code\quant_driving\data_source\akshare\ARBR_mode_cn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ARBR_model" />
+        <item itemvalue="Python.ARBR_mode_cn" />
         <item itemvalue="Python.dataframe_iterator" />
       </list>
     </recent_temporary>
