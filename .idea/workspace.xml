@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4357965-b3c2-4377-bb5b-a735883def83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_foundation/df_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_foundation/dataframe_iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_foundation/dataframe_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_foundation/dataframe_iterator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

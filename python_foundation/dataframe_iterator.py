@@ -24,20 +24,13 @@ df = ak.stock_zh_ah_name()
 #     print(data)
 # for data in df.itertuples(index=False,name='Drama'):
 #     print(data)
-for data in df.itertuples(index=False,name='Drama'):
-    print(data[1])
+# for data in df.itertuples(index=False,name='Drama'):
+#     print(data[1])
 
 
 # 3) 按照列遍历
 for colName,data in df.items():
     print("colName:[{}]\ndata:{}".format(colName,data))
 
-
-
-# for data in df.iterrows():
-#     print(type(data))
-#
-
-
-# for colName,data in df.items():
-#     print("colName:[{}]\ndata:{}".format(colName,data))
+# for colName,data in df.():
+#     print("colName:[{}]\ndata:{}".format(colName,data[1]))
