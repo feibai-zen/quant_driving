@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import akshare as ak
-import talib as ta
+import talib as ta  # 使用命令： conda install -c conda-forge ta-lib -y 来解决 symbol not found in flat namespace '_TA_ACCBANDS' 问题
 
 '''人气指标（AR）和意愿指标（BR）
 AR指标是通过比较某个周期内开盘价与最高、最低价，来反映市场买卖人气。
